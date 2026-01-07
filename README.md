@@ -126,5 +126,5 @@ This dataset is large enough to demonstrate meaningful analytics while still man
 
 ## Team
 
-Single-person project: Ashvanth Rathinavel
+Single-person project: Ashvanth Rathinavel.
 All implementation, testing, and development completed individually.
